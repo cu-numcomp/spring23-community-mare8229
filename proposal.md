@@ -17,7 +17,7 @@ NonlinearSolve is a julia package dedicated to creating a unified interface for 
 | Number of contributors in the past year | 23 |
 | Number of contributors in the lifetime of the project | 24 |
 | Number of distinct affiliations | 1 |
-| Where do development discussions take place? | GitHub Issues/PRs |
+| Where do development discussions take place? | GitHub Issues/PRs, Slack, Zulip |
 | Typical number of emails/comments per week? | 10 |
 | Typical number of commits per week? | 5 |
 | Typical commit size | 10-50 insertions |
